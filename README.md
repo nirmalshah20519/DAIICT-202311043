@@ -1,3 +1,3 @@
-# DAIICT - 202311043
-## Nirmal Shah
+# DAIICT 
+## Nirmal Shah - 202311043
 ### Programming Lab Practicals
